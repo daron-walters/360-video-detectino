@@ -1,1 +1,1 @@
-# 360-video-detectino
+# 360-video-detection
